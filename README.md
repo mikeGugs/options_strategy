@@ -1,4 +1,4 @@
-#
+# Options Project
 This is a personal project to build an automated system for exploring options trading opportunities from S&P 500 stocks.
 
 The first goal is, for the top N number of companies in the S&P 500 index measured by by market cap,  to compare the implied volatilies in options prices
