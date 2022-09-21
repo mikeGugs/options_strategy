@@ -1,4 +1,4 @@
-This is a personal project to build an automated system for exploring options trading opportunities from S&P 500 stocks.
+# This is a personal project to build an automated system for exploring options trading opportunities from S&P 500 stocks.
 
 The first goal is, for the top N number of companies in the S&P 500 index measured by by market cap,  to compare the implied volatilies in options prices
 using the Black-Scholes formula versus the recent realized volatilies in the underlyings to find any major discrepencies. Based on any major discrepencies,
