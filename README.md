@@ -1,2 +1,2 @@
 # Options Project
-Just playing around with wrangling options data. 
+Just playing around with options data. 
